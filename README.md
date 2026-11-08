@@ -35,9 +35,9 @@
 
 ## Why I built it
 
-My grandmother was my last living grandparent. After she passed away, I started thinking more about how important it is to create meaningful moments with the older people in our lives while we still have them.
+My grandmother lived in Canada, and I live in the U.S. I didn't get to see her or spend time with her as often as I wanted, so I kept looking for ways to stay connected: phone calls, video calls, and simple things we could do together even from far away.
 
-Connection doesn't have to mean elaborate plans or special occasions. Often it's a thoughtful conversation, a shared memory, or doing something together that feels familiar and brings joy. I wanted to make those moments easier to create.
+I found that connection doesn't have to mean elaborate plans or special occasions. Often it's a thoughtful conversation, a shared memory, or doing something together that feels familiar and brings joy. But knowing what to say or do on every call isn't easy. I wanted to make those moments easier to create, for my family and for others in the same situation.
 
 ---
 
@@ -92,7 +92,7 @@ I joined Facebook groups for **activity professionals** in senior living and for
 
 I first designed The Comfort Bond for activity professionals: ready-to-use resources to help them plan meaningful activities for residents. My first free resource was **The Weekly Blueprint**, a 7-day engagement planner built around an "Engagement Balance Wheel" of six dimensions.
 
-As the product took shape, I came back to what inspired it: my grandmother, and families. Adult children and grandchildren often want to connect but struggle with what to say or do. So I shifted the primary audience to families and rethought the messaging, packaging and customer experience to feel personal and part of everyday family life.
+As the product took shape, I came back to what inspired it: staying connected with my grandmother across the distance, and families like mine. Adult children and grandchildren often want to connect but struggle with what to say or do. So I shifted the primary audience to families and rethought the messaging, packaging and customer experience to feel personal and part of everyday family life.
 
 **What I kept, and what I changed:**
 
